@@ -4,14 +4,16 @@ Je suis un développeur d'application 🖥️🖱️
 
 Je suis tombé dans la marmite du codage avec Python, que j'ai découvert au lycée en seconde.
 
-À présent, j'aime beaucoup coder en C# comme c'est un langage très clair qui permet une exploitation fluide d'informations des bases de données SQL à l'aide de requêtes SQL.
+À présent, j'aime beaucoup coder en C# comme c'est un langage très clair qui permet une exploitation fluide d'informations des bases de données SQLite.
 
 Java est un autre langage très utile pour concevoir des applications complexes et structurées.
 
 Mon lieu de travail actuel se situe à Illkirch-Graffenstaden.
 ***
 ## ℹ️ À propos
-Développeur en formation à l'IUT Robert Schuman dans la conception et le développement
+Développeur en formation à l'IUT Robert Schuman 
+
+Conception et développement d’application dans des environnements variés, intégration dans des équipes ou projets, administration de réseaux informatiques ou de gestion de données
 ***
 ## 🔧 Compétences
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,html,css,javascript" />
