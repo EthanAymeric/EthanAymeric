@@ -16,7 +16,9 @@ Développeur en formation à l'IUT Robert Schuman
 Conception et développement d’application dans des environnements variés, intégration dans des équipes ou projets, administration de réseaux informatiques ou de gestion de données
 ***
 ## 🔧 Compétences
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,html,css,javascript,bash,c" />
+
+<img src="https://skillicons.dev/icons?i=gitlab,idea,sqlite,visualstudio" />
 
 - **Langages** | C# • Java • SQL • HTML - CSS - JavaScript
 - **Outils** | Git • Intellij IDEA • Visual Studio Code (Codium) • SQLite • Winforms
