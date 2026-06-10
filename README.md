@@ -20,7 +20,7 @@ Conception et développement d’application dans des environnements variés, in
 
 <img src="https://skillicons.dev/icons?i=gitlab,idea,sqlite,visualstudio" />
 
-- **Langages** | C# • Java • SQL • HTML - CSS - JavaScript
+- **Langages** | C# • Java • SQL • HTML - CSS - JavaScript • C • Bash
 - **Outils** | Git • Intellij IDEA • Visual Studio Code (Codium) • SQLite • Winforms
 - **Concepts** | P.O.O. • UML • Test Unitaires
 
@@ -42,6 +42,6 @@ Développement de projets complets en Java et C#, allant d’un jeu de cartes st
 ***
 ## 📞 Contact
 - **Email** | ethan.soobrayen@gmail.com
-- **LinkedIn** | [Compte LinkedIn](www.linkedin.com/in/ethan-soobrayen-2a6586396)
+- **LinkedIn** | [Compte LinkedIn](https://www.linkedin.com/in/ethan-soobrayen-2a6586396/)
 - **Github** | [EthanAymeric](https://github.com/EthanAymeric)
 ***
