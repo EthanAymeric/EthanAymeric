@@ -20,8 +20,8 @@ Conception et développement d’application dans des environnements variés, in
 
 <img src="https://skillicons.dev/icons?i=gitlab,idea,sqlite,visualstudio,godot" />
 
-- **Langages** | C# • Java • SQL • HTML - CSS - JavaScript • C • Bash
-- **Outils** | Git • Intellij IDEA • Visual Studio Code (Codium) • SQLite • Winforms
+- **Langages** | C# • Java • SQL • HTML - CSS - JavaScript • PHP • GDScript • C • Bash
+- **Outils** | Git • Intellij IDEA • Visual Studio Code (Codium) • SQLite • Winforms • Godot
 - **Concepts** | P.O.O. • UML • Test Unitaires
 
 ***
