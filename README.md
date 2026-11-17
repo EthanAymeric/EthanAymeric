@@ -26,9 +26,8 @@ Conception et développement d’application dans des environnements variés, in
 
 ***
 ## 💾 Projets
-Développement de projets complets en Java et C#, allant d’un jeu de cartes stratégique inspiré d’Inscryption à une application de gestion de missions spatiales, avec conception logicielle, bases de données SQL, interfaces graphiques et automatisation des tests.
-
-
+Développement de projets complets en Java, Pyhton et C#, allant d’un jeu de cartes stratégique inspiré d’Inscryption à une application de gestion de missions spatiales, avec conception logicielle, bases de données SQL, interfaces graphiques et automatisation des tests.
+Je suis également en train de réaliser de multiples projets, comme un jeu sérieux de "city-building" sur Godot portant sur la massification scolaire dans le cadre de mes études, ou un projet personnel de style jeu de plateformes inspiré de Sonic, aussi sur Godot.
 ***
 ## 💻 Stats
 - **Projets**
